@@ -50,5 +50,5 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
 
 ##[อ้างอิง](https://github.com/Desktop-Programming-Lab-2559/LAB-01/wiki/References)
-
+WinMain (..), MessageBox(..) 
  
