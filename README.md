@@ -17,8 +17,8 @@
     2.4.    ส่วนที่เหลือ ให้คงไว้ตามที่ปรากฏ กด OK 
 
 
-3 เพิ่ม source code ให้กับ project โดยการเลือกเมนู PROJECT >> Add New Item…
-  
+3 เพิ่ม source code ให้กับ project โดยการเลือกเมนู PROJECT >> Add Ne
+
     3.1 ตั้งชื่อไฟล์เป็น EasyMain.cpp
   
     3.2 กด Add เพื่อเพิ่มไฟล์
