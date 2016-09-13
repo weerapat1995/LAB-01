@@ -49,14 +49,6 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
 
 
+##[อ้างอิง](https://github.com/Desktop-Programming-Lab-2559/LAB-01/wiki/References)
 
-
-
-
-
-
-
-
-
-อ้างอิง
-WinMain (..) – เป็นทางเข้าสู่ windows application คล้ายกับ main() ในโปรแกรมบน Dos console รูปแบบการ declare ของ WinMain คือ
+ 
