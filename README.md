@@ -44,7 +44,7 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
 ## บันทึกผลการทดลอง
 
- [ให้นักษึกษาเขียนสรุปผลการทดลอง แล้ว commit changes จากนั้นให้ส่งไปที่ edmodo]
+ [ให้สรุปผลการทดลอง แล้ว commit changes จากนั้นให้ส่งไปที่ edmodo]
 
 ## คำถาม 
 1. นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
