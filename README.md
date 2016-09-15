@@ -36,6 +36,10 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 }
 ```
 
+**หมายเหตุ**
+ใน Windows นั้น ฟังก์ชันแรกในโปรแกรมของเราที่จะถูกเรียกใช้คือ WinMain ต่างจากในภาษา C ที่ใช้ main()<br>
+อ่านเพิ่มเติม [WinMain entry point](https://msdn.microsoft.com/en-us/library/windows/desktop/ms633559(v=vs.85).aspx)
+
 5 กดปุ่ม Ctrl+F5 เพื่อดูผลการทำงานของโปรแกรม
 
 ## บันทึกผลการทดลอง
