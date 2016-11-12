@@ -1,4 +1,5 @@
 # ใบงานที่ 1 เรื่อง การเขียนโปรแกรม Win32 ด้วยภาษา C
+# นายวีรภัทร	แก่นจันทร์	57030222
 ##วัตถุประสงค์
 
 1. เพื่อให้นักศึกษาสามารถบอกวิธีการเขียนโปรแกรมบน Windows ด้วยฟังก์ชัน Win32 API ได้
@@ -82,3 +83,5 @@ WinMain (..), MessageBox(..)
 * [Win32 programming tutorials](http://www.win32developer.com/tutorial.shtm)
 
 * [Building a Win32 App, Part 2: Windows and Messages](https://www.codementor.io/c_plus_plus/tutorial/build-win32-api-app-windows-messages-c-cpp-visual-studio)
+
+# นายวีรภัทร	แก่นจันทร์	57030222
